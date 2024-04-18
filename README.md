@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Just starting to learn how to use this.  More to come in the future.
+Full Stack Java Software Developer, recently graduated from Tech Elevator Bootcamp.  Currently looking for work, please feel free to look at what I have posted here and find me on LinkedIn at http://www.linkedin.com/in/andrewgeaton
